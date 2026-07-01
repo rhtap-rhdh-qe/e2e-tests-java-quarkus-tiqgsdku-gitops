@@ -12,5 +12,5 @@ spec:
   template: 
     spec:
       containers:
-      - image: quay.io/redhat-appstudio/rhtap-task-runner:latest
+      - image: quay.io/rhtap_qe/e2e-tests-java-quarkus-tiqgsdku:azure-6435e638b6bf07e430ade58700b7dfe4020b1eae
         name: container-image  
